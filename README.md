@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I’m Andrew
 
-<!--
-**Andrewchenyh/Andrewchenyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Statistics & Economics student at UC Davis interested in data science, machine learning, and applied analytics. I enjoy turning messy data into clear insights and building projects that help me learn new tools along the way.
 
-Here are some ideas to get you started:
+Tech & Tools I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python (pandas, NumPy, scikit-learn, matplotlib)
+R (tidyverse, ggplot2)
+SQL
+Basic web scraping & APIs
+
+
+Connect with Me
+
+LinkedIn: https://www.linkedin.com/in/andrew-yihanchen/
+
+Email: andrewchenyihan@gmail.com
