@@ -5,12 +5,16 @@ I’m a Statistics & Economics student at UC Davis interested in data science, m
 Tech & Tools I Use
 
 Python (pandas, NumPy, scikit-learn, matplotlib)
+
 R (tidyverse, ggplot2)
+
 SQL
+
 Basic web scraping & APIs
 
 
-Connect with Me
+
+Connect with Me:
 
 LinkedIn: https://www.linkedin.com/in/andrew-yihanchen/
 
