@@ -1,21 +1,21 @@
-Hi, I’m Andrew
+# Hi, I'm Andrew 👋
 
-I’m a Statistics & Economics student at UC Davis interested in data science, machine learning, and applied analytics. I enjoy turning messy data into clear insights and building projects that help me learn new tools along the way.
+I'm a Statistics & Economics student at UC Davis, transitioning into AI/ML engineering. I'm interested in building production-style AI systems — retrieval, agents, and the infrastructure around them — and I'm currently targeting AI/ML and software engineering roles at large tech companies.
 
-Tech & Tools I Use
+## 🚧 What I'm Building
 
-Python (pandas, NumPy, scikit-learn, matplotlib)
+**[FinSight](https://github.com/Andrewchenyh/finsight)** — A RAG system for Q&A over SEC 10-K filings. Combines Pinecone vector search and OpenAI embeddings for retrieval, with a FastAPI backend and a Next.js frontend, to make dense financial filings searchable and explorable.
 
-R (tidyverse, ggplot2)
+**[Agentic Stock Copilot](https://github.com/Andrewchenyh/AI-Investment-Copilot)** — A ReAct-style agent for financial analysis, built with FastAPI, Redis, and SSE streaming, using a Pydantic-based tool registry for structured tool calls. FinSight's retrieval API is being integrated as one of the agent's tools.
 
-SQL
+## 🛠️ Tech & Tools
 
-Basic web scraping & APIs
+- **Languages:** Python, SQL, R
+- **AI/ML:** RAG pipelines, agentic systems (ReAct), LLM APIs (OpenAI, Gemini), scikit-learn, NumPy
+- **Backend:** FastAPI, Redis, Pydantic
+- **Data & Infra:** Pinecone, pandas, Selenium, Docker
 
+## 📫 Connect with Me
 
-
-Connect with Me:
-
-LinkedIn: https://www.linkedin.com/in/andrew-yihanchen/
-
-Email: andrewchenyihan@gmail.com
+- LinkedIn: [andrew-yihanchen](https://www.linkedin.com/in/andrew-yihanchen/)
+- Email: andrewchenyihan@gmail.com
